@@ -21,9 +21,9 @@ install the directory
 
 run npm i, then node index.js
 
-## Contributing
+## Walkthrough Video
 
-
+https://youtu.be/W1hTIQJ4s2w
 
 ## Tests
 
